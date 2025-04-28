@@ -17,7 +17,7 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 * Windows 8 64 bits (Professional, Enterprise version)
 * Windows 8.1 64 bits (Professional, Enterprise version)
 * Windows 10 64 bits (Education, Professional, Enterprise version)
-###Software [dependencies](http://www.ibm.com/support/knowledgecenter/SS2GNX_5.1.1/com.ibm.tivoli.tpm.sft.doc/software/csfm_reqcap.html):###
+### Software [dependencies](http://www.ibm.com/support/knowledgecenter/SS2GNX_5.1.1/com.ibm.tivoli.tpm.sft.doc/software/csfm_reqcap.html): ###
 * [SecurAble](https://www.grc.com/securable.htm)
 * [Hardware-assisted virtualization detection tool](https://www.microsoft.com/en-us/download/details.aspx?id=592)
 * [Intel® Processor Identification Utility](https://downloadcenter.intel.com/download/7838)
@@ -27,7 +27,7 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 * Winglyph
 * [Rufus](https://rufus.akeo.ie/#ref2)
 
-###Procedures - checklist###
+### Procedures - checklist ###
 * Install [SecurAble](https://www.grc.com/securable.htm). Run it. Verify that your processor provides virtualization functions. 
 * Install [Hardware-assisted virtualization detection tool](https://www.microsoft.com/en-us/download/details.aspx?id=592). Verify that your operating system meets the mandatory [needed](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/13/software-workflow-hardware-assisted). Run it. Test that your processor provides virtualization features. 
 * Plus, install this utilities to analyze the *architecture / possibilities* of virtualization: 
