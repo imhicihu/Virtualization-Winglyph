@@ -5,7 +5,12 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 ### What is this repository for? ###
 
 * Virtualization of Winglyph on recent operating systems
-* 1.0
+
+### Main Function Points
+* Provide a step-by-step guide for virtualizing Winglyph on different Windows operating systems
+* Verify the hardware requirements and enable virtualization features on the host system
+* Install necessary software dependencies, such as VirtualBox, Rufus, and Windows XP Mode
+* Create a virtual machine and install Winglyph within the virtual environment
 
 ## Requirements: ##
 ### Operating systems: ###
@@ -17,6 +22,7 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 * Windows 8 64 bits (Professional, Enterprise version)
 * Windows 8.1 64 bits (Professional, Enterprise version)
 * Windows 10 64 bits (Education, Professional, Enterprise version)
+  
 ### Software [dependencies](http://www.ibm.com/support/knowledgecenter/SS2GNX_5.1.1/com.ibm.tivoli.tpm.sft.doc/software/csfm_reqcap.html): ###
 * [SecurAble](https://www.grc.com/securable.htm)
 * [Hardware-assisted virtualization detection tool](https://www.microsoft.com/en-us/download/details.aspx?id=592)
