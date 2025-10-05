@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/PLnJOt9JS8Sc_N5sBTg4kQ.webp?raw=true" alt="Logotipo de Virtualization-Winglyph"/>
+</p>
+
+---
+
 # README #
 
 Virtualization of Winglyph (deprecated) on brand new operating systems, mainly Windows OS's.
