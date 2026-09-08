@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/PLnJOt9JS8Sc_N5sBTg4kQ.webp?raw=true" alt="Logotipo de Virtualization-Winglyph"/>
+  <img src="images/PLnJOt9JS8Sc_N5sBTg4kQ.webp?raw=true" alt="Logotipo de Virtualization-Winglyph" weight="480" height="680"/>
 </p>
 
 ---
