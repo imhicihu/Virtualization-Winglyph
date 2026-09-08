@@ -4,7 +4,7 @@
 
 ---
 
-# README #
+# Rationale
 
 Virtualization of Winglyph (deprecated) on brand new operating systems, mainly Windows OS's.
 
